@@ -13,7 +13,8 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 - 18 sayısı > Average Case
 
 ÖRNEK 2-) [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
-ADIM 1-) 7 Sayısı 3 ile kıyaslnır artık en küçük sayı 3'tür. Sonra 3 sırası ile 5,8,2 ile kıyaslanır. Artık yeni en küçük sayımız 2'dir. 2 sırasıyla 9,4,15, ve 6 ile kıyaslnır. En küçük hala kendisi olduğundan en başa yazılır. [2,3,5,8,7,9,4,15,6] 
-ADIM 2-) 2.sıradaki sayı olan 3 ile üstteki işlem tekrar edilir.[2,3,5,8,7,9,4,15,6]
-ADIM 3-) 3.sıradaki 5 ile işlem devam edilir. [2,3,4,8,7,9,5,15,6]
-ADIM 4-) [2,3,4,5,7,9,8,15,6]
+
+- ADIM 1-) 7 Sayısı 3 ile kıyaslnır artık en küçük sayı 3'tür. Sonra 3 sırası ile 5,8,2 ile kıyaslanır. Artık yeni en küçük sayımız 2'dir. 2 sırasıyla 9,4,15, ve 6 ile kıyaslnır. En küçük hala kendisi olduğundan en başa yazılır. [2,3,5,8,7,9,4,15,6] 
+- ADIM 2-) 2.sıradaki sayı olan 3 ile üstteki işlem tekrar edilir.[2,3,5,8,7,9,4,15,6]
+- ADIM 3-) 3.sıradaki 5 ile işlem devam edilir. [2,3,4,8,7,9,5,15,6]
+- ADIM 4-) [2,3,4,5,7,9,8,15,6]
